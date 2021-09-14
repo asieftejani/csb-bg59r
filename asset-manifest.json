@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://asieftejani.github.io/csb-bg59r/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://asieftejani.github.io/csb-bg59r/static/js/main.c03eaa4b.chunk.js",
+    "main.js.map": "https://asieftejani.github.io/csb-bg59r/static/js/main.c03eaa4b.chunk.js.map",
+    "runtime-main.js": "https://asieftejani.github.io/csb-bg59r/static/js/runtime-main.365166a4.js",
+    "runtime-main.js.map": "https://asieftejani.github.io/csb-bg59r/static/js/runtime-main.365166a4.js.map",
+    "static/js/2.6487861b.chunk.js": "https://asieftejani.github.io/csb-bg59r/static/js/2.6487861b.chunk.js",
+    "static/js/2.6487861b.chunk.js.map": "https://asieftejani.github.io/csb-bg59r/static/js/2.6487861b.chunk.js.map",
+    "index.html": "https://asieftejani.github.io/csb-bg59r/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://asieftejani.github.io/csb-bg59r/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.6487861b.chunk.js.LICENSE.txt": "https://asieftejani.github.io/csb-bg59r/static/js/2.6487861b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.365166a4.js",
+    "static/js/2.6487861b.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.c03eaa4b.chunk.js"
+  ]
+}
